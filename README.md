@@ -18,9 +18,11 @@ This is a proof-of-concept that demonstrates how a Windows executable can be emb
 This is for educational purposes only. Don’t be a jerk.
 
 ##  The long horn
-Photo by linzmeier1
+Original photo by linzmeier1:
 https://pixabay.com/photos/longhorn-cattle-steer-texas-3394286/
 
+Stegano' picture:
+https://securityrabbits.com/longhorn.png
 
 <img width="1094" height="874" alt="image" src="https://github.com/user-attachments/assets/a7ee08e5-0fed-4e9f-8a6b-596d76e6daf2" />
 
